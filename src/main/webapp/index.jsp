@@ -13,7 +13,7 @@
             background-repeat: no-repeat;
             background-size: cover;
         }
-        strong{color: white;}
+        strong{color: black;}
     </style>
 </head>
 <body>
